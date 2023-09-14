@@ -1,10 +1,5 @@
-Data Visualisation Mini Project
-=
-B20AI053 , B20AI063
-
-Devi Prasad Maharathy , Kaustabh Mishra
-
-Github Link: https://github.iitj.ac.in/mishra-23/Lab-10-Mini-Project
+# Indian States Visualisation
+The files contain various visualisations in terms of literacy rate, sex ratio etc for all Indian states
 -------------------------------------------------------------------------------------------------------------------
 
 
