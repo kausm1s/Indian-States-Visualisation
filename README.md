@@ -3,7 +3,7 @@ The files contain various visualisations in terms of literacy rate, sex ratio et
 -------------------------------------------------------------------------------------------------------------------
 
 
-There are 3 R files in the zip folder:
+There are 3 R files:
 
 	global.R
 	
